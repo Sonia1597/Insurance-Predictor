@@ -22,8 +22,7 @@ A machine learning web app that predicts **insurance charges** based on user inp
 
 ## 🚀 Demo
 
-![App Screenshot](https://raw.githubusercontent.com/Sonia1597/Insurance-Predictor/main/assets/demo.png)  
-> _Note: Add `assets/demo.png` screenshot manually if needed._
+![image](https://github.com/user-attachments/assets/0edf3cd9-6342-43a5-988a-918ccf3ed14d)
 
 ---
 
@@ -49,7 +48,6 @@ Insurance-Predictor/
 ├── requirements.txt # Project dependencies
 ├── README.md # This file
 └── assets/
-└── ![image](https://github.com/user-attachments/assets/0edf3cd9-6342-43a5-988a-918ccf3ed14d)
 
 
 
