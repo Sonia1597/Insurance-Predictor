@@ -47,9 +47,3 @@ Insurance-Predictor/
 ├── random_forest_model.pkl # Saved machine learning model
 ├── requirements.txt # Project dependencies
 ├── README.md # This file
-└── assets/
-
-
-
-
-
