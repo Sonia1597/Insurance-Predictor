@@ -1,4 +1,4 @@
-# 🏥 Insurance Cost Predictor
+# 🏥 Insurance Cost Predictor 
 
 A machine learning web app that predicts **insurance charges** based on user input, using a trained **Random Forest Regressor** model.
 
